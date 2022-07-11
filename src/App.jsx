@@ -47,6 +47,7 @@ const App = () => {
       <h1>
         TIC <span className="text-green">TAC</span> TOE
       </h1>
+      <small>By Abhinav </small>
       <StatusMessage winner={winner} current={current} />
       <Board
         board={current.board}
