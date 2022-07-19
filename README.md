@@ -1,4 +1,4 @@
-### TICTAKTOE
+# TICTACTOE
 
 ## Available Scripts
 
